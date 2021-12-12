@@ -1,2 +1,8 @@
 # crypto_bookmarks
 Resources and links for my cryptocurrency stuff
+Tips can be sent to:
+monero: 46jvfcczuL66HF2uX2ZqgvbUf4zZkoooXPZkqdPMnMajdFHAmqDRhKY4vzRgj8TAcwMcgLYBsQnNK5yBqvzeqmNB5s4gWWH
+ 
+bitcoin: bc1q8lkpsrqfa3m2x49v4hdw2w9rt2d6hzp4yfgcp6
+ 
+litecoin: MFruL3oxGQQpgZvwvNHXEhQPLtYMqhh5s4
